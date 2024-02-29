@@ -2,7 +2,7 @@
 The project was developed for the [Computer Graphics and Interactive Systems](https://www.cse.uoi.gr/course/computer-graphics-and-interactive-systems/?lang=en) course @ [cse.uoi.gr](https://www.cs.uoi.gr/)
 
 The purpose of this Programming Exercise is to familiarize oneself with the use of graphic platforms such as Unity3D.<br>
-Unity 3D offers a wide variety of tools for developing games and other interactive applications.
+Unity 3D offers a wide variety of tools for developing games and other interactive applications.<br>
 In this project, one will construct an interactive application in which a solar system is simulated.<br>
 More specifically: one will create a game application, in which a sphere that corresponds to the Sun will be loaded, along with planets (spheres) that will move in orbits around the Sun.
 The user can launch meteorites and try to hit the planets.
